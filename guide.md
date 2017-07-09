@@ -21,12 +21,14 @@ On a quest for better tomorrow I had initially an idea… Idea that is interesti
 </p>
 <p>The goals should be simple:</p>
 <ul>
-•	Everyone should equal opportunities 
-o	to become amazing person
-o	develop their skills
-o	contribute is society
-•	System should take care of basic needs and distance from having to work to survive
-•	People should be motivated to contribute for others and world around us
+ <li>	Everyone should equal opportunities 
+ <p>
+  <li>	to become amazing person
+  <li>	develop their skills
+  <li> contribute is society
+ </p>
+ <li>	System should take care of basic needs and distance from having to work to survive
+ <li>	People should be motivated to contribute for others and world around us
 </ul>
 </p>
 <p>
