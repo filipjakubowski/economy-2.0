@@ -1,7 +1,7 @@
-###Economy 2.0
-#Quest for better Tomorrow
+### Economy 2.0
+# Quest for better Tomorrow
 
-##The Challenge
+## The Challenge
 
 
 <p>
@@ -19,13 +19,15 @@ If we will try to take it step forward and dive into the feature. Let’s imagin
 <p>
 On a quest for better tomorrow I had initially an idea… Idea that is interesting concept how we can approach Economy 2.0. Idea that I will reveal little later and I want to explain why. More precise I have been, more focus I have become on this single solution. Then I had  a though… what if I am all wrong. What if my time that I will submit to this single solution will be wasted – what if there are other, better solutions that I may never discover or think about. That was a moment when I tried to scrap my concept to core, to vison and goal only. The goal that can be like a destination not only for me, but for others, and maybe together we can find multiple solution and pick the best one. The perfect world I see is a world when person gets up in the morning and they are happy and motivated to provide services for others in both short and long term and they will care for our planet, others, animals and environment. 
 </p>
-The goals should be simple:
+<p>The goals should be simple:</p>
+<ul>
 •	Everyone should equal opportunities 
 o	to become amazing person
 o	develop their skills
 o	contribute is society
 •	System should take care of basic needs and distance from having to work to survive
 •	People should be motivated to contribute for others and world around us
+</ul>
 </p>
 <p>
 This will not be an easy journey, but I  am inviting you to join, challenge yourself and world around you – how can better tomorrow look like? The first step is to define and concept and then challenge it from different angles. The best ideas can be tested and can become a template for governments and communities to implement. 
